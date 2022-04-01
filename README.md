@@ -4,4 +4,4 @@ This project will geneate Mochawesome report
 
 ## Subheader
 
-watch tutorial on YouTube
+watch tutorial on YouTube channel
